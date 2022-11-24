@@ -1,6 +1,5 @@
 # ShareMe---Social-Media-React-App
-ShareMe Social Media Application
-ShareMe
+Social Media Application
 
 
 ![Screenshot 2022-11-24 145105](https://user-images.githubusercontent.com/53363314/203789013-4efacf9f-8d36-40fc-bd98-2a5672002bef.png)
